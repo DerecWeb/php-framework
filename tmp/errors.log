@@ -501,3 +501,47 @@
 =================
 [2022-03-31 17:32:58] Текст ошибки: Too few arguments to function php\Registry::setProperty(), 1 passed in C:\Open\OpenServer\domains\php.com\app\controllers\AppController.php on line 17 and exactly 2 expected | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Registry.php | Строка: 9
 =================
+[2022-04-01 20:42:08] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-02 12:17:48] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-02 12:17:53] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 30
+=================
+[2022-04-02 12:18:01] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 30
+=================
+[2022-04-02 12:18:04] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 30
+=================
+[2022-04-02 12:18:07] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 30
+=================
+[2022-04-02 12:18:45] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 30
+=================
+[2022-04-02 12:19:27] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
+=================
+[2022-04-02 12:23:34] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
+=================
+[2022-04-02 12:26:59] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
+=================
+[2022-04-02 12:29:14] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
+=================
+[2022-04-02 12:29:48] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
+=================
+[2022-04-02 12:30:35] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
+=================
+[2022-04-02 12:30:36] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
+=================
+[2022-04-02 12:31:21] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
+=================
+[2022-04-02 12:31:45] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
+=================
+[2022-04-02 12:34:04] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 37
+=================
+[2022-04-02 12:34:05] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 37
+=================
+[2022-04-02 12:34:21] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
+=================
+[2022-04-02 12:35:46] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
+=================
+[2022-04-02 12:36:36] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
+=================
+[2022-04-02 12:36:46] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
+=================
