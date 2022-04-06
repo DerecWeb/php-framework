@@ -4,6 +4,9 @@
     <?=$this->getMeta();?>
     <link href="/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <link href="/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href="megamenu/css/ionicons.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="megamenu/css/style.css" type="text/css" media="all">
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <!--start-menu-->
@@ -58,7 +61,15 @@
     <div class="container">
         <div class="header">
             <div class="col-md-9 header-left">
-                <div class="top-nav">
+                <div class="menu-container">
+                <div class="menu">
+                    <?php new \app\widgets\menu\Menu([
+                        'tpl' => WWW . '/menu/menu.php',
+
+                    ]); ?>
+                </div>
+                </div>
+                <!--div class="top-nav">
                     <ul class="memenu skyblue"><li class="active"><a href="/index.html">Home</a></li>
                         <li class="grid"><a href="/#">Men</a>
                             <div class="mepanel">
@@ -194,7 +205,7 @@
                         <li class="grid"><a href="/contact.html">Contact</a>
                         </li>
                     </ul>
-                </div>
+                </div>-->
                 <div class="clearfix"> </div>
             </div>
             <div class="col-md-3 header-right">
@@ -302,6 +313,7 @@
 
     });
 </script>
+<script src="megamenu/js/megamenu.js"
 <script src="js/main.js"></script>
 </body>
 </html>

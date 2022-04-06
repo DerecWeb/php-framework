@@ -545,3 +545,33 @@
 =================
 [2022-04-02 12:36:46] Текст ошибки: На найден вид C:\Open\OpenServer\domains\php.com/app/views/Currency/change.php | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\base\View.php | Строка: 38
 =================
+[2022-04-02 16:16:50] Текст ошибки: Too few arguments to function app\widgets\menu\Menu::run(), 0 passed in C:\Open\OpenServer\domains\php.com\app\widgets\menu\Menu.php on line 23 and exactly 1 expected | Файл: C:\Open\OpenServer\domains\php.com\app\widgets\menu\Menu.php | Строка: 35
+=================
+[2022-04-02 16:17:18] Текст ошибки: Too few arguments to function app\widgets\menu\Menu::run(), 0 passed in C:\Open\OpenServer\domains\php.com\app\widgets\menu\Menu.php on line 22 and exactly 1 expected | Файл: C:\Open\OpenServer\domains\php.com\app\widgets\menu\Menu.php | Строка: 34
+=================
+[2022-04-02 16:56:38] Текст ошибки: Call to a member function set() on array | Файл: C:\Open\OpenServer\domains\php.com\app\controllers\AppController.php | Строка: 31
+=================
+[2022-04-02 16:58:01] Текст ошибки: Call to a member function set() on array | Файл: C:\Open\OpenServer\domains\php.com\app\controllers\AppController.php | Строка: 31
+=================
+[2022-04-02 16:58:32] Текст ошибки: Call to a member function set() on array | Файл: C:\Open\OpenServer\domains\php.com\app\controllers\AppController.php | Строка: 31
+=================
+[2022-04-02 17:01:22] Текст ошибки: Too few arguments to function php\Registry::getProperty(), 0 passed in C:\Open\OpenServer\domains\php.com\app\controllers\AppController.php on line 20 and exactly 1 expected | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Registry.php | Строка: 13
+=================
+[2022-04-02 17:02:55] Текст ошибки: Too few arguments to function php\Registry::getProperty(), 0 passed in C:\Open\OpenServer\domains\php.com\app\controllers\AppController.php on line 20 and exactly 1 expected | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Registry.php | Строка: 13
+=================
+[2022-04-02 17:17:43] Текст ошибки: Too few arguments to function php\Registry::getProperty(), 0 passed in C:\Open\OpenServer\domains\php.com\app\controllers\AppController.php on line 20 and exactly 1 expected | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Registry.php | Строка: 13
+=================
+[2022-04-03 12:59:44] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-03 13:35:17] Текст ошибки: Too few arguments to function app\widgets\menu\Menu::run(), 0 passed in C:\Open\OpenServer\domains\php.com\app\widgets\menu\Menu.php on line 25 and exactly 1 expected | Файл: C:\Open\OpenServer\domains\php.com\app\widgets\menu\Menu.php | Строка: 37
+=================
+[2022-04-03 17:15:43] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-03 17:49:55] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 35
+=================
+[2022-04-03 19:01:21] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-04 20:00:04] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-04 20:45:43] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
