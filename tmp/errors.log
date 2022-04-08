@@ -575,3 +575,23 @@
 =================
 [2022-04-04 20:45:43] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
 =================
+[2022-04-06 15:19:08] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-06 15:19:12] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-06 16:34:36] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-06 17:07:10] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-06 20:30:38] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-07 14:59:23] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-07 14:59:33] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-08 13:57:12] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
+[2022-04-08 14:31:43] Текст ошибки: Too few arguments to function php\Registry::getProperty(), 0 passed in C:\Open\OpenServer\domains\php.com\app\controllers\AppController.php on line 20 and exactly 1 expected | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Registry.php | Строка: 13
+=================
+[2022-04-08 17:40:59] Текст ошибки: Страница не найдена | Файл: C:\Open\OpenServer\domains\php.com\vendor\php\core\Router.php | Строка: 38
+=================
